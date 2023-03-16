@@ -1,8 +1,9 @@
 let randomize = () => {
     // an array of the quotes given as the output//
-    let messages = ['Success is a lousy teacher. It seduces smart people into thinking they can\'t- Bill Gates', 
-    'Your time is limited, so don\'t waste it living someone else\'s life- Steve Jobs', 
-    'Be humble in victory or defeat- Conor McGregor', 'I like criticism. It makes me stronger- LeBron James',]
+    let messages = ['Have no fear of perfection -- you’ll never reach it.\'t- Salvador Dali, artist', 
+    'Every great design begins with an even better story.- Lorinda Mamo', 
+    'Design creates culture. Culture shapes values. Values determine the future- Robert L.',
+    'Design is not just what it looks like and feels like. Design is how it works.-Steve Jobs']
     // an array of numbers which will be given as the output
     let numbers = [1,2,3,4,5,6,7,8,9]
     let randomMesage = messages[Math.floor(Math.random(message.length))]
